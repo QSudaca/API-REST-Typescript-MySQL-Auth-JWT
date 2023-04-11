@@ -57,5 +57,5 @@ When create a post, the author is by default the username of the active session 
 
 ## Authors
 
-- Github profile - [@qsudaca](https://github.com/QSudaca)
+- Github profile - [@emunoz-qsudaca](https://github.com/emunoz-qsudaca)
 
